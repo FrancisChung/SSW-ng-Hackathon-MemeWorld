@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
 
+This is a basic Angular page that displays & fitlers Memes. It uses the REST api from imgflip.com, where the memes are sourced.
+
+https://api.imgflip.com/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
